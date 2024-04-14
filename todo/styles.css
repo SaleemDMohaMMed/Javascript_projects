@@ -1,0 +1,40 @@
+body{
+    background-color: skyblue;
+}
+.container{
+    background-color: white;
+    width: 800px;
+    height: 600px;
+}
+.heading{
+    text-align: left;
+    padding-left: 18px;
+    padding-top: 28px;
+    padding-bottom: 14px;
+}
+#head{
+    color: blueviolet;
+    border-bottom: 1px dashed skyblue;
+    padding-bottom: 30px ;
+}
+#name{
+    font-size: 18px;
+    font-weight: bold;
+}
+#input{
+    width: 185px;
+    height: 25px;
+    font-size: small;
+}
+button{
+    border: 3px solid grey;
+    width: 80px;
+    height: 32px;
+    color: black;
+    background-color: rgb(202, 69, 69);
+    border: 0px;
+}
+#error{
+    color: red;
+}
+

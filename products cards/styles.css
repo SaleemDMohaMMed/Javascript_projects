@@ -1,0 +1,34 @@
+.contain-fluid{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #909090;
+    justify-content: space-between;
+
+}
+.card{
+    width: 110px;
+    height: 60px;
+    margin-top: 18px;
+}
+.card-img-top{
+    width: 110px;
+    height: 180px;
+    margin-top: 8px;
+}
+.card-text{
+    font-size: 12px;
+    height: 90px;
+    overflow: hidden;
+    text-align: justify;
+}
+.card-title{
+    overflow: hidden;
+    height: 70px;
+}
+.price{
+    font-weight: bold;
+    font-size: medium;
+}
+@media screen {
+    
+}
